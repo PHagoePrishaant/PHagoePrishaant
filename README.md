@@ -1,6 +1,6 @@
-👋 Hi, I’m Prishaant Hagoe!
-👀 I’m passionate about full-stack development.
-🌱 Currently diving into C# .NET and mastering JavaScript.
+👋 Hi, I’m Prishaant Phagoe!
+👀 I’m a software tester & into automations also passionate DevOps.
+🌱 Currently diving into C# .NET and mastering JavaScript/Typescript.
 💞️ Open to collaborating on Financial applications.
 📫 Reach me on WhatsApp: +597 8260711
 
